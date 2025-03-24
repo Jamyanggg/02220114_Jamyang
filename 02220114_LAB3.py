@@ -63,4 +63,5 @@ stack.display()
 stack.peek()
 stack.pop()
 stack.display()
+
 print(f"Stack size: {stack.size}")
